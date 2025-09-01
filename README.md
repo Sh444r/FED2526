@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.rhodeskin.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Rhode Skin Home   
-  <img src="![Home](readme-images/screenshot-rhode-p1.jpg)" width="375px" alt="omschrijving van de pagina">
+  Home   
+  <img src="readme-images/screenshot-rhode-p1.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Future 
-  <img src="![Future](readme-images/screenshot-rhode-p2.jpg)" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screenshot-rhode-p2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
