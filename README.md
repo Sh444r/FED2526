@@ -57,6 +57,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - De toetsenbord focus matcht niet met de visuele layout.
+  - De website kan niet roteren.
+  - De headings elementen zijn niet in logische zinnen geschreven.
+  - Niet alle img elementen hebben een alt attribuut.
+  - Voor complexe imhs zijn geen alternatieven teksten.
+  - Voor imgs met text, is er niet overal een alt beschrijving in de img text.
+  - Er is niet overal een skip link die fysiek zichtbaar is op de site.
+  - High contrast mode is niet supported.
+  - Text size kan niet vergroot worden tot 200%.
+  - Niet alle animaties werken goed op grootte.
+  - Voor de color-contrast is alles op nee.
+  - Voor alle overige is de antwoord 'ja' op de toegankelijkheidstest.
 
 </details>
 
